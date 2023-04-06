@@ -1,0 +1,9 @@
+-e .
+
+# Installing requirements
+black
+isort
+pyarrow
+ipykernel
+pytest
+coverage
